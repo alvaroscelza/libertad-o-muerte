@@ -1,0 +1,29 @@
+.article {
+    max-width: 760px;
+    margin: 0 8% 2% 8%;
+}
+
+.footer {
+    padding-top: 4px;
+    border-top: #eeeeee 1px solid;
+}
+
+.footerText {
+    margin: 2px;
+    text-align: center;
+    padding: 0 40px 0 40px;
+    color: #999999;
+    font-size: 11px;
+    line-height: 2em;
+}
+
+.main {
+    height: 100vh;
+    position: relative;
+}
+
+@media (min-width: 481px) {
+    .main {
+        padding-left: 25vw;
+    }
+}
