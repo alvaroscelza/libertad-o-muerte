@@ -10,6 +10,7 @@ const HomePage = () => {
         <>
             <h1 className={classes.h1}>Home</h1>
             <div>
+                {process.env.PUBLIC_URL}
             </div>
         </>
     );

@@ -1,8 +1,5 @@
 {
   "name": "libertad-o-muerte",
-  "version": "0.1.0",
-  "description": "Libertarismo en Uruguay.",
-  "author": "Ing. Alvaro Rodriguez Scelza",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
