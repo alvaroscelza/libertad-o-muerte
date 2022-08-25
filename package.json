@@ -1,6 +1,7 @@
 {
   "name": "libertad-o-muerte",
   "private": true,
+  "homepage": "https://alvaroscelza.github.io/",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
