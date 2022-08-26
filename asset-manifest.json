@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/libertad-o-muerte/static/css/main.8911ea7f.css",
-    "main.js": "/libertad-o-muerte/static/js/main.bce8ef3b.js",
+    "main.css": "/libertad-o-muerte/static/css/main.0ca3e9f1.css",
+    "main.js": "/libertad-o-muerte/static/js/main.13df172e.js",
     "static/media/profile.png": "/libertad-o-muerte/static/media/profile.8216f190df173b07b6af.png",
+    "static/media/private-property.png": "/libertad-o-muerte/static/media/private-property.5747347716d892e45440.png",
+    "static/media/freedom.png": "/libertad-o-muerte/static/media/freedom.84ceacddcea087957370.png",
+    "static/media/life.png": "/libertad-o-muerte/static/media/life.20bc305a105e4d0ba5f5.png",
     "index.html": "/libertad-o-muerte/index.html",
-    "main.8911ea7f.css.map": "/libertad-o-muerte/static/css/main.8911ea7f.css.map",
-    "main.bce8ef3b.js.map": "/libertad-o-muerte/static/js/main.bce8ef3b.js.map"
+    "main.0ca3e9f1.css.map": "/libertad-o-muerte/static/css/main.0ca3e9f1.css.map",
+    "main.13df172e.js.map": "/libertad-o-muerte/static/js/main.13df172e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8911ea7f.css",
-    "static/js/main.bce8ef3b.js"
+    "static/css/main.0ca3e9f1.css",
+    "static/js/main.13df172e.js"
   ]
 }
