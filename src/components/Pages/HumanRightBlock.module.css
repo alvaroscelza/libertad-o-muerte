@@ -1,0 +1,9 @@
+@media (min-width: 481px) {
+    .humanRightContainer {
+        margin-right: 4em;
+    }
+}
+
+.humanRightImage {
+    border-radius: 50%;
+}
