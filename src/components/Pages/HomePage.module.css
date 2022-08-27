@@ -1,3 +1,7 @@
+.centerText {
+    text-align: center;
+}
+
 .humanRightsContainer {
     text-align: center;
 }
@@ -6,4 +10,13 @@
     .humanRightsContainer {
         display: flex;
     }
+}
+
+.justifyText {
+    text-align: justify;
+}
+
+.politicalCompassImageContainer {
+    margin-top: 1.5em;
+    text-align: center;
 }
