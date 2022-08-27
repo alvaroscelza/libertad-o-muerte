@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/libertad-o-muerte/static/css/main.0ca3e9f1.css",
-    "main.js": "/libertad-o-muerte/static/js/main.2b8131d5.js",
+    "main.css": "/libertad-o-muerte/static/css/main.09c4f298.css",
+    "main.js": "/libertad-o-muerte/static/js/main.c89ed95b.js",
+    "static/media/political-compass.webp": "/libertad-o-muerte/static/media/political-compass.cff240c31c7d09d33159.webp",
     "static/media/profile.png": "/libertad-o-muerte/static/media/profile.8216f190df173b07b6af.png",
     "static/media/private-property.png": "/libertad-o-muerte/static/media/private-property.5747347716d892e45440.png",
     "static/media/freedom.png": "/libertad-o-muerte/static/media/freedom.84ceacddcea087957370.png",
     "static/media/life.png": "/libertad-o-muerte/static/media/life.20bc305a105e4d0ba5f5.png",
     "index.html": "/libertad-o-muerte/index.html",
-    "main.0ca3e9f1.css.map": "/libertad-o-muerte/static/css/main.0ca3e9f1.css.map",
-    "main.2b8131d5.js.map": "/libertad-o-muerte/static/js/main.2b8131d5.js.map"
+    "main.09c4f298.css.map": "/libertad-o-muerte/static/css/main.09c4f298.css.map",
+    "main.c89ed95b.js.map": "/libertad-o-muerte/static/js/main.c89ed95b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca3e9f1.css",
-    "static/js/main.2b8131d5.js"
+    "static/css/main.09c4f298.css",
+    "static/js/main.c89ed95b.js"
   ]
 }
