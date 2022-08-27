@@ -8,7 +8,7 @@ function App() {
         <>
             <Menu/>
             <Page>
-                <Routes basename={process.env.PUBLIC_URL}>
+                <Routes>
                     <Route path='/' element={<HomePage/>}/>
                 </Routes>
             </Page>
