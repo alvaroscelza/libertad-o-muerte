@@ -11,7 +11,7 @@ Libertarismo en Uruguay.
 - `npm install`
 - `npm start`
 
-## Deployment WIP
+## Deployment
 
 - `npm run build`
 - `ghp-import build -b master` Note: you need to have 'ghp-import' installed globally (it's a python package, therefore
